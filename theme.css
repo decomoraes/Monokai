@@ -60,7 +60,7 @@
  */
 .CodeMirror,
 .CodeMirror .CodeMirror-scroll {
-    background: #222;
+    background: #000000;
     color: #F8F8F2;
 }
 
