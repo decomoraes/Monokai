@@ -116,7 +116,7 @@ div.CodeMirror-selected {
 .CodeMirror-matchingbracket {
     background-color: transparent !important;
     border-bottom: 1px solid; /* text-decoration: underline does not look that well with large font sizes */
-    color: #FFF !important;
+    color: #54d4ff !important;
     padding-bottom: 0.166em;
 }
 
